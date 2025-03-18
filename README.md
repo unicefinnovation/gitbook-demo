@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Welcome to Business toolkit
+# Welcome to Business toolkit (change from GitHub)
 
 Content page:
 
