@@ -1,17 +1,11 @@
 # Table of contents
 
 * [Welcome to Business toolkit](README.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+  * [User Guide](readme/user-guide.md)
+  * [Business Fundamentals](readme/business-fundamentals.md)
+  * [Building a Sustainable Business](readme/building-a-sustainable-business.md)
+  * [Finances and Fundraising](readme/finances-and-fundraising.md)
+  * [Scaling](readme/scaling.md)
+  * [Legal and Operational Readiness](readme/legal-and-operational-readiness.md)
+  * [Appendix](readme/appendix.md)
+* [Changelog](changelog.md)
